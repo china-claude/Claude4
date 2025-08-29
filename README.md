@@ -1,6 +1,6 @@
 # Claude 4 国内使用指南（支持 Claude-4-Sonnet，无需翻墙）【8月最新更新】
 
-> **更新日期：2025-08-26** 
+> **更新日期：2025-08-31** 
 
 [**Claude 4 中文版**](https://chat.lanjingai.org) 是Anthropic 的Claude 4模型的中文使用版本，专为国内用户设计，更高效、更流畅的智能AI对话
 
