@@ -1,14 +1,14 @@
 # Claude 4 国内使用指南（支持 Claude-4-Sonnet，无需翻墙）【9月最新更新】
 
-> **更新日期：2025-09-16**
+> **更新日期：2025-09-20**
 
-[**Claude 4 中文版**](https://chat.lanjingai.org) 是Anthropic 的Claude 4模型的中文使用版本，专为国内用户设计，更高效、更流畅的智能AI对话
+[**Claude 4 中文版**](https://ai.lanjing.pro) 是Anthropic 的Claude 4模型的中文使用版本，专为国内用户设计，更高效、更流畅的智能AI对话
 
-国内能轻松使用的 [**Claude 中文版**](https://chat.lanjingai.org)，**无需翻墙**，**支持 Claude 4、Claude 3.7 及中文版功能**   
+国内能轻松使用的 [**Claude 中文版**](https://ai.lanjing.pro)，**无需翻墙**，**支持 Claude 4、Claude 3.7 及中文版功能**   
 
-本指南提供全面的 **Claude 国内使用指南**，包括国内可用的 [**Claude 网页版**](https://xsimplechat.com)、[**Claude 国内入口**](https://chat.lanjingai.org)、[**Claude 官网平替**](https://xsimplechat.com) 和详细使用教程，帮助您快速使用上 Claude~
+本指南提供全面的 **Claude 国内使用指南**，包括国内可用的 [**Claude 网页版**](https://xsimplechat.com)、[**Claude 国内入口**](https://ai.lanjing.pro)、[**Claude 官网平替**](https://xsimplechat.com) 和详细使用教程，帮助您快速使用上 Claude~
 
-**Claude 中文版入口：[https://chat.lanjingai.org](https://chat.lanjingai.org)**   
+**Claude 中文版入口：[https://ai.lanjing.pro](https://ai.lanjing.pro)**   
 **Claude 镜像网站：[https://xsimplechat.com](https://xsimplechat.com)**
 
 ---
@@ -26,7 +26,7 @@
 
 ## Claude 中文版是什么？
 
-[Claude 中文版](https://chat.lanjingai.org) 是Anthropic 的Claude4模型的中文使用版本，专为国内用户设计，使用高效、流畅的AI对话体验。  
+[Claude 中文版](https://ai.lanjing.pro) 是Anthropic 的Claude4模型的中文使用版本，专为国内用户设计，使用高效、流畅的AI对话体验。  
 对比官方站点，Claude 中文版具备多个适合国内用户的亮点：
 
 - **无需翻墙**：国内站点直连，无需使用任何代理。
@@ -40,7 +40,7 @@
 | 平台名称               | 访问链接                                                               | 支持模型                  | 注册/使用说明                         | 主要特色                                                                                 |
 | ---------------------- | ---------------------------------------------------------------------- | ------------------------- | -------------------------------------- | ---------------------------------------------------------------------------------------- |
 | **极简AI**             | [xsimplechat.com](https://xsimplechat.com/)                         | Claude 4 Sonnet/Opus      | 邮箱注册使用，有免费额度         | 全面支持Claude系列、Midjourney、AIPPT等热门AI功能                                        |
-| **蓝鲸AI**             | [chat.lanjingai.org](https://chat.lanjingai.org/)                                 | Claude 4 Sonnet/Thinking  | 邮箱注册使用，有免费额度         | 支持Claude、GPT、Gemini全系，深度集成deepseek r1，附带PPT生成、AI绘图等实用工具            |
+| **蓝鲸AI**             | [ai.lanjing.pro](https://ai.lanjing.pro/)                                 | Claude 4 Sonnet/Thinking  | 邮箱注册使用，有免费额度         | 支持Claude、GPT、Gemini全系，深度集成deepseek r1，附带PPT生成、AI绘图等实用工具            |
 | **一下AI**             | [chat.yixiaai.com](https://chat.yixiaai.com/)                     | Claude 4 Sonnet           | 微信扫码使用，有免费额度                         | 聚合GTP4o、Claude、Gemini等多模型镜像，入口丰富、多选项                                   |
 | **Claude智能助手**     | [yixiaai.cn](https://yixiaai.cn/)                               | Claude 4 Sonnet           | 你想要的，这儿全都有                       | 多模态能力，专业文档分析工具                                                              |
 | **AI助理**             | [lanjing.pro](https://lanjing.pro /)                         | Claude 4 Sonnet           | 邮箱注册使用，有免费额度              | 纯中文界面、无广告、极致简洁                                                             |
